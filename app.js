@@ -17,7 +17,7 @@ let products = [
     {
         id: 1,
         name: 'PRODUCT NAME 1',
-        Image: '1.PNG',
+        Image: '1.png',
         price: 130000,
     },
     {
@@ -29,25 +29,25 @@ let products = [
     {
         id: 3,
         name: 'PRODUCT NAME 3',
-        Image: '3.PNG',
+        Image: '3.png',
         price: 130000,
     },
     {
         id: 4,
         name: 'PRODUCT NAME 4',
-        Image: '4.PNG',
+        Image: '4.png',
         price: 125000,
     },
     {
         id: 5,
         name: 'PRODUCT NAME 5',
-        Image: '5.PNG',
+        Image: '5.png',
         price: 150000,
     },
     {
         id: 6,
         name: 'PRODUCT NAME 6',
-        Image: '6.PNG',
+        Image: '6.png',
         price: 160000,
     },
 ];
